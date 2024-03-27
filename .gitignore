@@ -1,0 +1,17 @@
+/*
+
+!**/*.md
+!LICENSE
+!.gitignore
+
+!ProjectSettings/
+!ProjectSettings/**/*
+
+!Assets/
+!Assets/**/*
+Assets/GlobalEntitiesDependencies*
+Assets/SceneDependencyCache*
+
+!Packages
+!Packages/manifest.json
+.DS_Store
